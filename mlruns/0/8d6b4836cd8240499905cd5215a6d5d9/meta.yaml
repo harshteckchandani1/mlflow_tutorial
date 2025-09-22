@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8d6b4836cd8240499905cd5215a6d5d9/artifacts
+end_time: 1758523017456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d6b4836cd8240499905cd5215a6d5d9
+run_name: suave-doe-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758523017401
+status: 3
+tags: []
+user_id: HP

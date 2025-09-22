@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/867498482b0247bd957de913d34fdc66/artifacts
+end_time: 1758525520089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 867498482b0247bd957de913d34fdc66
+run_name: salty-loon-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758525519682
+status: 3
+tags: []
+user_id: HP

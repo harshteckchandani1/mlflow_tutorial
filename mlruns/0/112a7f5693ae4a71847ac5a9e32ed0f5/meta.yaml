@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/112a7f5693ae4a71847ac5a9e32ed0f5/artifacts
+end_time: 1758525920947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 112a7f5693ae4a71847ac5a9e32ed0f5
+run_name: worried-rat-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758525920582
+status: 3
+tags: []
+user_id: HP
