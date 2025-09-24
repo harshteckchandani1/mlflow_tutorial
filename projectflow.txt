@@ -1,0 +1,25 @@
+=========================================== local execution======================================
+
+Created MLFLOW experiment locally
+
+used of different models 
+
+run ids generation
+
+
+
+===================use of dags hub=============================
+1) create an account on dagshub
+2) connect account with github
+3) set tracking uri and add the credentials as provided
+
+# DagsHub repo credentials
+os.environ["MLFLOW_TRACKING_USERNAME"] = "dagshub_username"
+os.environ["MLFLOW_TRACKING_PASSWORD"] = "token"
+
+# Set MLflow tracking URI to your DagsHub repo
+mlflow.set_tracking_uri("https://dagshub.com/username/reponame.mlflow")
+
+4) token will be generated in <settings> - > token --> click on regenrate
+
+copy the token and paste in the code section
